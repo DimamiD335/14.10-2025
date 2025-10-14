@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dima\\source\\repos\\ConsoleApplication20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23AD7AD9-CECA-46F1-9453-26174D823A67}|ConsoleApplication20\\ConsoleApplication20.vcxproj|C:\\Users\\Dima\\source\\repos\\ConsoleApplication20\\ConsoleApplication20\\ConsoleApplication20.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23AD7AD9-CECA-46F1-9453-26174D823A67}|ConsoleApplication20\\ConsoleApplication20.vcxproj|solutionrelative:ConsoleApplication20\\ConsoleApplication20.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication20.cpp",
+              "DocumentMoniker": "C:\\Users\\Dima\\source\\repos\\ConsoleApplication20\\ConsoleApplication20\\ConsoleApplication20.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication20\\ConsoleApplication20.cpp",
+              "ToolTip": "C:\\Users\\Dima\\source\\repos\\ConsoleApplication20\\ConsoleApplication20\\ConsoleApplication20.cpp",
+              "RelativeToolTip": "ConsoleApplication20\\ConsoleApplication20.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T20:14:38.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
